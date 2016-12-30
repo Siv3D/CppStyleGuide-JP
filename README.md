@@ -1,2 +1,1 @@
-# CppStyleGuide-JP
-Siv3D C++ スタイルガイド
+# Siv3D C++ スタイルガイド
